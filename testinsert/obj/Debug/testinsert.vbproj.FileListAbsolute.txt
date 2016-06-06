@@ -1,0 +1,10 @@
+F:\Web\Demo_Application\testinsert\bin\Debug\testinsert.dll
+F:\Web\Demo_Application\testinsert\bin\Debug\testinsert.pdb
+F:\Web\Demo_Application\testinsert\bin\Debug\testinsert.xml
+F:\Web\Demo_Application\testinsert\bin\Debug\Demo_Application.dll
+F:\Web\Demo_Application\testinsert\bin\Debug\Demo_Application.pdb
+F:\Web\Demo_Application\testinsert\bin\Debug\Demo_Application.xml
+F:\Web\Demo_Application\testinsert\obj\Debug\testinsert.vbprojResolveAssemblyReference.cache
+F:\Web\Demo_Application\testinsert\obj\Debug\testinsert.dll
+F:\Web\Demo_Application\testinsert\obj\Debug\testinsert.xml
+F:\Web\Demo_Application\testinsert\obj\Debug\testinsert.pdb
